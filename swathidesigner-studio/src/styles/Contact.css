@@ -1,0 +1,41 @@
+.contact-container {
+    max-width: 500px;
+    margin: 2rem auto;
+    padding:2rem;
+    display: flex;
+    flex-direction:column;
+    gap: 16px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    background-color: #FFF8E1;
+}
+
+.contact-heading {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 1rem; /* Add this for breathing space */
+    color: #5D4037; /* Optional: match your theme color */
+  }
+  
+
+.contact-submit {
+    align-self: center;
+    font-weight: 500;
+    cursor: pointer;
+    background-color: #8D6E63 !important;
+    color: white !important;
+    padding: 10px 20px;
+    border-radius: 12px;
+    font-weight: bold; 
+}
+.contact-submit:hover {
+    background-color: #6D4C41 !important;
+}
+
+
+.contact-footer {
+    text-align: center;
+    font-size: 0.9rem;
+    color: #8D6E63;
+    font-weight: bold;
+}

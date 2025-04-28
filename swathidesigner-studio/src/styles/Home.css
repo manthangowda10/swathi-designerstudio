@@ -1,0 +1,14 @@
+.custom-explore-button {
+    background-color: #8D6E63 !important;
+    color: white !important;
+    padding: 10px 20px;
+    border-radius: 12px;
+    font-weight: bold; 
+    
+    
+  }
+  
+  .custom-explore-button:hover {
+    background-color: #6D4C41 !important;
+  }
+  

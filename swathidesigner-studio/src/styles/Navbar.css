@@ -1,0 +1,29 @@
+
+
+.toolbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo-title-box {
+    display: flex;
+    align-items: center;
+    gap:16px;
+}
+
+.logo-img {
+    height: 40px;
+    border-radius: 25px;
+}
+
+.nav-link {
+    text-decoration:none;
+    color: inherit;
+    margin-left: 16px;
+    font-family:serif;
+}
+.nav-link:hover {
+    color: #B5A39D;
+    text-decoration: underline;
+  }

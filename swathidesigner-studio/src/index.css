@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Lato&display=swap');
+
+
+
+/* Global Font Settings */
+body {
+    font-family: 'Lato', sans-serif; /* Body Text */
+    margin: 0;
+    background-color: #FFF8E1;
+  }
+  
+  h1, h2, h3, h4, .navbar, .section-title, .subsection-title, .contact-heading {
+    font-family: 'Playfair Display', serif; /* Headings & Navbar */
+    color: #5D4037;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  
